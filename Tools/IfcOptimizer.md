@@ -1,3 +1,5 @@
+# IFC Optimizer
+
 Overview
 
 IFC Optimizer is a tool for reduce the size of an IFC file. Along with the BIM project becomes more complicated and more detailed, sometimes IFC files can become rather large. And that lead to an expensive computational costs for processing IFC files. 

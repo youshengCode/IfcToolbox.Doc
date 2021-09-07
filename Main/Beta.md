@@ -37,7 +37,7 @@ If you don’t have an IFC file, you can download it here. I have prepared a col
 
 Please contact me directly if you encounter any problems or have any ideas and suggestions.
 
-yousheng.wang@outlook.com
+ifctoolbox@outlook.com
 
 Have fun !
 

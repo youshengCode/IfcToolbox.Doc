@@ -1,3 +1,4 @@
+# IFC Anonymizer
 ## Configurations
 
 ```
