@@ -16,7 +16,7 @@ Thank you all for ❤️ IFC Toolbox!
 
 > The IfcToolbox App is designed for No-Code users and to provide a better user experience.
 
-[Download IFC Toolbox from Microsoft Store](https://www.microsoft.com/en-us/p/ifc-toolbox/9n77phd2h471)
+> **[Download IFC Toolbox from Microsoft Store](https://www.microsoft.com/en-us/p/ifc-toolbox/9n77phd2h471)**
 
 ## Tools in the box
 
