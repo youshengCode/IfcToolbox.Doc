@@ -4,7 +4,7 @@
 
 ## Free and Open
 
-IfcToolbox is a **.Net** kit of simple tools for processing IFC files. It provides tools to optimize, convert, split, relocate and anonymize IFC files easily. Based on open-source libraries like [Xbim](https://docs.xbim.net/) and [IfcOpenShell](http://ifcopenshell.org/). 
+IfcToolbox is a .Net kit of simple tools for processing IFC files. It provides tools to optimize, convert, split, relocate and anonymize IFC files easily. Based on open-source libraries like [Xbim](https://docs.xbim.net/) and [IfcOpenShell](http://ifcopenshell.org/). 
 
 IfcToolbox is one of the proposals in [openBIM Marketplace - buildingSMART Technical](https://technical.buildingsmart.org/misc/openbim-marketplace/). 
 
