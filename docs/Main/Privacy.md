@@ -1,3 +1,5 @@
+# Privacy & Disclaimer  <!-- {docsify-ignore-all} -->
+
 ## Privacy
 
 - Never collect user information

@@ -3,23 +3,49 @@
 <head>
   <meta charset="UTF-8">
   <link rel="icon" href="Assets/Applogo.svg">
-  <title>IFC Toolbox Documentation</title>
+  <title>IFC Toolbox - Documentation</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" /> -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   <link rel="stylesheet" href="/References/prism.css" />
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" /> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" /> -->
+  <style>
+    :root {
+      --base-font-size: 15px;
+      --theme-color   : indianred;
+    }
+    :root {
+      --cover-margin                                     : 0 auto;
+      --cover-max-width                                  : 40em;
+      --cover-text-align                                 : center;
+      /* Blockquote (Subtitle) */
+      --cover-background-image                           : url("https://bimmars.com/wp-content/uploads/2021/09/HeroImage_Dark2160.jpg");
+      --cover-blockquote-color                           : #f08080;
+      /* Heading */
+      --cover-heading-color                              : white;
+    }
+    :root {
+        /* red = rgb(255, 0, 0) */
+      --sidebar-nav-pagelink-background-image          : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28255, 255, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+      --sidebar-nav-pagelink-background-image--active  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='rgb%28255, 66, 66%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+      --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28255, 255, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+      --sidebar-nav-pagelink-background-image--loaded  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='rgb%28255, 255, 255%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+  }
+
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1"></script>
   <script src="/References/prism.js"></script>
 
-  <script src="https://unpkg.com/docsify-copy-code@2.1.1"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-csharp.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-csharp.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-csharp.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-csharp.min.js"></script>
   <script>
     window.$docsify = {
       search: 'auto', // default
@@ -30,12 +56,6 @@
       onlyCover: false,
       coverpage: true,
       logo: '/Assets/IfcToolbox_Applogo.svg',
-
-      copyCode: {
-        buttonText : 'Copy to clipboard',
-        errorText  : 'Error',
-        successText: 'Copied'
-      }
     };
   </script>
 </body>
