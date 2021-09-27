@@ -16,6 +16,8 @@ The beta version of IFC Toolbox is already online for all **Win10** devices. Bec
 
 ## Install from Sideload package
 
+> Redistribution is not allowed.
+
 1. Double-click the **`IfcToolbox_X.X.X.X_AnyCPU_Debug.cer`** certificate file
 2. Click the Install **`Certificate...`** button
 3. Store **`Location -> Local Machine`** (Use **Current User** if you don't have admin)
