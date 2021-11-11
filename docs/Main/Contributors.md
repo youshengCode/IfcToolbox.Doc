@@ -1,5 +1,9 @@
 # Contributors  <!-- {docsify-ignore-all} -->
 
+## Co-Translation
+
+- [Odilo Schoch](https://www.linkedin.com/in/odilo-schoch-43512210/) German Version
+
 ## Professionalists
 
 - [Yu QIE](https://www.linkedin.com/in/yu-qie-83263258/) Ph.D. candidate in Geography, Pantheon-Sorbonne University

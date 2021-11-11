@@ -11,11 +11,17 @@ Each tool's source code in IFC Toolbox is open resourced.
 - IfcToolbox.Test - Unit tests with xUnit for Core and Tools.
 - IfcToolbox.Examples - .Net core console app for tools example.
 
+## Co-Translation
+
+Co-Translation of IFC Toolbox GUI App is driven by our community.
+
+IfcToolbox-Cotranslation: https://github.com/youshengCode/IfcToolbox-Cotranslation
+
 ## IFC sample files 
 
-If you don’t have an IFC file, you can download it from here. I have prepared a collection of sample files.
+If you don’t have an IFC file, you can download it from here. I have prepared a collection of sample files for test use.
 
-[youshengCode/IfcSampleFiles: A collection of IFC sample files for software test use. (github.com)](https://github.com/youshengCode/IfcSampleFiles)
+IfcSampleFiles: https://github.com/youshengCode/IfcSampleFiles
 
 ## Feedback
 

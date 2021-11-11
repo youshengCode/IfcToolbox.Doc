@@ -1,4 +1,4 @@
-# Privacy & Disclaimer  <!-- {docsify-ignore-all} -->
+# Privacy & Disclaimer <!-- {docsify-ignore-all} -->
 
 ## Privacy
 

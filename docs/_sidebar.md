@@ -1,5 +1,6 @@
 - [IFC Toolbox](/ "IFC Toolbox - Simple tools for processing IFC files")
 - [SourceCode](Main/SourceCode.md "Source Code - IFC Toolbox")
+- [Download](Main/Download.md "Download - IFC Toolbox")
 
 - Tools
   - [IFC Optimizer](Tools/IfcOptimizer.md "IFC Optimizer - IFC Toolbox")
@@ -9,7 +10,6 @@
   - [IFC Anonymizer](Tools/IfcAnonymizer.md "IFC Anonymizer - IFC Toolbox")
 
 
-<!-- - [Beta](Main/Beta.md "Beta Version Installation") -->
 - [Developer](Main/Developer.md "Quick recipes - IFC Toolbox")
 
 - [Contributors](Main/Contributors.md "Contributors - IFC Toolbox")
