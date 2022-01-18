@@ -32,6 +32,7 @@ Please contact us if you encounter any problems or have any ideas and suggestion
 
 ## Third Party Licences
 
+- bSDD OpenAPI https://github.com/buildingSMART/bSDD - [buildingSMART International](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/)
 - Xbim.Essentials https://docs.xbim.net/ - [CDDL License](https://docs.xbim.net/license/license.html)
 - IfcOpenShell http://ifcopenshell.org/ - [LGPL-3.0 License](https://github.com/IfcOpenShell/IfcOpenShell/blob/v0.6.0/COPYING)
 - MoreLINQ https://morelinq.github.io/ - [Apache-2.0 License](https://licenses.nuget.org/Apache-2.0)

@@ -8,6 +8,7 @@
   - [IFC Splitter](Tools/IfcSplitter.md "IFC Splitter - IFC Toolbox")
   - [IFC Converter](Tools/IfcConverter.md "IFC Converter - IFC Toolbox")
   - [IFC Anonymizer](Tools/IfcAnonymizer.md "IFC Anonymizer - IFC Toolbox")
+  - [IFC Vaidator](Tools/IfcValidator.md "IFC Validator - IFC Toolbox")
 
 
 - [Developer](Main/Developer.md "Quick recipes - IFC Toolbox")

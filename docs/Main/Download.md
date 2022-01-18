@@ -6,9 +6,9 @@
 
 ## Install from Sideload package
 
-> **[IFC Toolbox Sideload package release in GitHub](https://github.com/youshengCode/IfcToolbox/releases/tag/sideload)**
+> **[IFC Toolbox Sideload package release in GitHub](https://github.com/youshengCode/IfcToolbox/releases)**
 
-1. Download the `Ifc.Toolbox_X.X.X.X_x86_x64_arm.zip` file from [IFC Toolbox release page](https://github.com/youshengCode/IfcToolbox/releases/tag/sideload).
+1. Download the `Ifc.Toolbox_X.X.X.X_x86_x64_arm.zip` file from [IFC Toolbox release page](https://github.com/youshengCode/IfcToolbox/releases).
 2. Double click the certificate file for install a certification `Ifc.Toolbox_X.X.X.X_x86_x64_arm.cer`.
 3. Click the `Install Certificate...` button.
 4. Store `Location -> Local Machine` (Use **Current User** if you don't have admin).
