@@ -6,6 +6,7 @@
 
 ## Professionalists
 
+- [Frédéric GRAND](https://www.linkedin.com/in/frederic-grand/) Technical Director, buildingSMART France - Mediaconstruct
 - [Yu QIE](https://www.linkedin.com/in/yu-qie-83263258/) Ph.D. candidate in Geography, Pantheon-Sorbonne University
 - [Hao HUANG](https://www.linkedin.com/in/hao-huang-ensta/) Ph.D. candidate in Numerical Analysis, Burgundy Institute of Mathematics
 
