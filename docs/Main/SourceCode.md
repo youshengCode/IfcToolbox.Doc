@@ -2,7 +2,7 @@
 
 IfcToolbox:  https://github.com/youshengCode/IfcToolbox
 
-Each tool's source code in IFC Toolbox is open resourced.
+Each tools source code in IFC Toolbox is opensource.
 
 ## Source code projects
 
